@@ -1,0 +1,15 @@
+Write a C++ program to print sample Output.
+
+Sample Output:
+Hello     World...!
+
+PROGRAM:
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello\tWorld...!";
+}
+
+OUTPUT:
+Hello     World...!
